@@ -1,4 +1,6 @@
 ### Hi there 👋
+###My name is Milagro. I am currentlty working on improving how my github looks like and also adding additional projects to showcase.
+###I am a junior Full Stack developer.
 
 <!--
 **mdscardigno/mdscardigno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
