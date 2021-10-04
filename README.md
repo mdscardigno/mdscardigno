@@ -4,8 +4,12 @@
 ### 🌱 I’m currently learning C# ...
 ### If you want to reach out: https://www.linkedin.com/in/milagroscardigno/
 
-
-
+![](https://visitor-badge.laobi.icu/badge?page_id=mdscardigno.mdscardigno)
+[![Github](https://img.shields.io/github/followers/mdscardigno?label=Follow&style=social)](https://github.com/mdscardigno)
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdscardigno&show_icons=true&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdscardigno&theme=tokyonight)
 <!--
 **mdscardigno/mdscardigno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
