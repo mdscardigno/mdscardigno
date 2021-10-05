@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Milagro. I am currentlty working on improving how my github looks like and also adding additional projects to showcase.
 ### I am a junior Full Stack developer.
-### 🌱 I’m currently learning C#, Typscript, React and Angular...
+### 🌱 I’m currently learning C#, Typescript, React and Angular...
 ### 🐶🐶🐶🐶🐶 I am mother to five dogs, three parrots🦜🦜🦜, a bunny and many chickens🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓.
 ### If you want to reach out: https://www.linkedin.com/in/milagroscardigno/
 
